@@ -1,1 +1,1 @@
-# Nti-terraform-lab1
+# Nti-terraform-labs
